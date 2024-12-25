@@ -1,7 +1,7 @@
 site_name: Woan Blog
 site_description: Woan Blog
 site_url: https://github.com/WoanSs
-site_author: Woan 
+site_author: Woa
 
 theme:
     name: material
