@@ -1,7 +1,7 @@
-site_name: thienqc
-site_description: thienqc's blog
-site_url: https://thienqc.github.io/blog/
-site_author: thienqc
+site_name: Woan
+site_description: Woan's blog
+site_url: https://github.com/WoanSs/blog
+site_author: Woan
 
 theme:
     name: material
@@ -107,4 +107,4 @@ extra:
       link: https://www.instagram.com/thienqc/
   analytics:
     provider: google
-    property: G-WQ6QJ2DK27
+    property: 
