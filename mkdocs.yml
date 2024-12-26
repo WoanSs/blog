@@ -1,7 +1,7 @@
 site_name: Woan Blog
 site_description: Woan Blog
 site_url: https://github.com/WoanSs
-site_author: Woa
+site_author: Woan
 
 theme:
     name: material
@@ -45,6 +45,12 @@ theme:
       - search.suggest
       - search.highlight
       - navigation.footer
+      - navigation.tracking
+      - navigation.sections
+      #- navigation.expand
+      - navigation.indexes
+      - navigation.top
+      - toc.follow
 
 copyright: Copyright &copy; 2024 Woan 
 
@@ -52,9 +58,10 @@ copyright: Copyright &copy; 2024 Woan
 
 plugins:
   - search
-  # - roamlinks
-  - autolinks
+  #- roamlinks
+  - autolinks                                                           
   - callouts
+
   # - meta:
   #     meta_file: .meta.yml
   - blogging:
